@@ -1,4 +1,3 @@
-# 00-HolaMundo
 # Autores de la resolución:
 ## LeticiaMaldonado
 ## 163.708-3
