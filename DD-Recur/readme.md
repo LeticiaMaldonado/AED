@@ -11,8 +11,7 @@
 ##### Proceso: máximo común divisor de las entradas, a través del algoritmo de Euclides
 ### Pseudocódigo:
 #### entran a y b
-#### a==0 y b ==0
-#### a==0 o b==0, return 0
+#### si a==0 o b==0, return 0
 #### b!=0 y a !=0, aux=b 
 #### se le asigna a b el resto de dividir a por b 
 #### se le asigna a a el valor del auxiliar
