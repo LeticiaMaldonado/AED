@@ -17,5 +17,5 @@
 #### se le asigna a b el resto de dividir a por b 
 #### se le asigna a a el valor del auxiliar
 #### si b es distinto de cero, se vuelve a llamar a la función con los nuevos valores de a y b 
-
+#### si b es cero, devuelve a
 
