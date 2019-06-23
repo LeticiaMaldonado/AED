@@ -13,8 +13,8 @@
 #### entran a y b
 #### si a==0 o b==0, return 0
 #### si b!=0 y a !=0, aux=b 
-#### se le asigna a b el resto de dividir a por b=a%b
-#### se le asigna a a el valor del auxiliar
+#### b=a%b
+#### a=aux
 #### si b es distinto de cero, se vuelve a llamar a la función con los nuevos valores de a y b 
 #### si b es cero, devuelve a
 
