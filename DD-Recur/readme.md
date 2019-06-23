@@ -9,12 +9,12 @@
 ##### Entrada: dos números enteros
 ##### Salida: un número entero
 ##### Proceso: máximo común divisor de las entradas, a través del algoritmo de Euclides
-### Pseudocódigo:
+### Pseudocódigo función MCD:
 #### entran a y b
 #### si a==0 o b==0, return 0
 #### si b!=0 y a !=0, aux=b 
 #### b=a%b
 #### a=aux
-#### si b es distinto de cero, se vuelve a llamar a la función con los nuevos valores de a y b 
-#### si b es cero, devuelve a
+#### si b!=0, MCD(a,b)
+#### si b==0, return a
 
