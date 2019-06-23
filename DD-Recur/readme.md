@@ -12,8 +12,8 @@
 ### Pseudocódigo:
 #### entran a y b
 #### si a==0 o b==0, return 0
-#### b!=0 y a !=0, aux=b 
-#### se le asigna a b el resto de dividir a por b 
+#### si b!=0 y a !=0, aux=b 
+#### se le asigna a b el resto de dividir a por b=a%b
 #### se le asigna a a el valor del auxiliar
 #### si b es distinto de cero, se vuelve a llamar a la función con los nuevos valores de a y b 
 #### si b es cero, devuelve a
