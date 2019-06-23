@@ -5,6 +5,7 @@
 ## Leticia
 # 03-Funciones Recursivas con OperadorCondicional
 ## 1. División entera de naturales
+## 2. Máximo Común Denominador
 ### Modelo IPO:
 ##### Entrada: dos números enteros
 ##### Salida: un número entero
@@ -17,4 +18,3 @@
 #### a=aux
 #### si b!=0, MCD(a,b)
 #### si b==0, return a
-
