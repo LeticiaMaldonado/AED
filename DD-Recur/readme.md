@@ -9,5 +9,6 @@
 ##### Entrada: dos números enteros
 ##### Salida: un número entero
 ##### Proceso: máximo común divisor de las entradas, a través del algoritmo de Euclides
-
+### Pseudocódigo:
+#### 
 
