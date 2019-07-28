@@ -23,12 +23,5 @@
 #### -Salida: Triángulo ={(a,b,c) / a,b,c ϵ Punto}
 
 ## DIAGRAMA IPO
-
-			 ------- GetTipo ϵ TipoDeTriángulo
-     R⁶                 |
---------> Triángulo.cpp  ------- EsEquilátero ϵ {V,F}
-			|
-			 ------- GetPerímetro ϵ R
-			|
-                         ------- ExtraerTriángulo ϵ Triángulo 
+![Screenshot](IPOTriangulo.jpg) 
 					   
