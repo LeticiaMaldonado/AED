@@ -10,7 +10,7 @@
 #### -Entrada: t ϵ Triángulo
 #### -Salida: Dist(ta,tb)=Dist(tb,tc)=Dist(tc,td) -> Equilátero
 ####          Dist(ta,tb)≠Dist(tb,tc)≠Dist(tc,td) -> Escaleno
-#### 		      Dist(ta,tb)≠Dist(tb,tc)=Dist(tc,td) -> Isósceles
+#### 	      Dist(ta,tb)≠Dist(tb,tc)=Dist(tc,td) -> Isósceles
 ####          Dist(ta,tb)=Dist(tb,tc)≠Dist(tc,td) -> Isósceles
  
 ### *EsEquilátero
@@ -27,11 +27,11 @@
 
 ## DIAGRAMA IPO
 
-					     _____ GetTipo ϵ TipoDeTriángulo
+			 ------- GetTipo ϵ TipoDeTriángulo
      R⁶                 |
 --------> Triángulo.cpp  ------- EsEquilátero ϵ {V,F}
-					    |
-					     ----- GetPerímetro ϵ R
-					    |
-                         ----- ExtraerTriángulo ϵ Triángulo 
+			|
+			 ------- GetPerímetro ϵ R
+			|
+                         ------- ExtraerTriángulo ϵ Triángulo 
 					   
