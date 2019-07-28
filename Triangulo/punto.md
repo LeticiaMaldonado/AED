@@ -22,4 +22,4 @@
 
 ## DIAGRAMA IPO
   
-Triangulo/IPOPunto.jpg
+http://raw.githubusercontent.com/LeticiaMaldonado/AED/Triangulo/IPOPunto.jpg
