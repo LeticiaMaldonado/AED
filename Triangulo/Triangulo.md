@@ -8,10 +8,7 @@
 ## Operaciones
 ### *GetTipo
 #### -Entrada: t ϵ Triángulo
-#### -Salida: Dist(ta,tb)=Dist(tb,tc)=Dist(tc,td) -> Equilátero
-####          Dist(ta,tb)≠Dist(tb,tc)≠Dist(tc,td) -> Escaleno
-#### 	      Dist(ta,tb)≠Dist(tb,tc)=Dist(tc,td) -> Isósceles
-####          Dist(ta,tb)=Dist(tb,tc)≠Dist(tc,td) -> Isósceles
+#### -Salida: Clasificación TipoDeTriángulo
  
 ### *EsEquilátero
 #### -Entrada: t ϵ Triángulo
