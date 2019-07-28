@@ -21,11 +21,4 @@
 #### -Salida: Punto ={(a,b) / (a,b) ϵ ℛ²}
 
 ## DIAGRAMA IPO
-
-                        --- Distancia ϵ ℛ
-     ℛ²               |
- --------> Punto.cpp  ----- SonDistanciasIguales ϵ {V,F}
-		       |
-			----- SonDistanciasDistintas ϵ {V,F}
-		       |
-                       ---- ExtraerPunto ϵ Punto		  
+  
