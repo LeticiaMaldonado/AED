@@ -4,6 +4,8 @@
 ## Maldonado
 ## Leticia
 
+# Descripción:
+## Entra un flujo de valores por año y se muestra el promedio por año
 
 # Modelo IPO:
 ## (RxN)* ––→ ◌ ––→ (NxR)
