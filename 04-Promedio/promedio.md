@@ -5,7 +5,7 @@
 ## Leticia
 
 # Descripción:
-## Entra un flujo de valores por año y se muestra el promedio por año
+## Entra un flujo de valores y se muestra el promedio
 
 # Modelo IPO:
 ## R* ––→ ◌ ––→ R 
