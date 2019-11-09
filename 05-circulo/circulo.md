@@ -6,6 +6,7 @@
 
 
 # Descripción:
-## A partir de un círculo, la función retorna en qué cuadrante, o el origen de coordenadas, se encuentra éste.
+## A partir de unas coordenadas y un radio, la función retorna en qué cuadrante, o el origen de coordenadas, se encuentra el círculo que se formaría.
+
 # Modelo IPO:
 ## (R²,N)-––→ ◌ -––→ clasificación según cuadrante
